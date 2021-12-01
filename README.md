@@ -8,6 +8,7 @@ The website was refactored to improve web accessibility and long-term sustainabi
 ## Table of contents
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Mockup] (#mockup)
 * [Notable-updates](#notable-updates)
 * [HTML-updates](#html-updates)
 * [CSS-updates] (#css-updates)
@@ -22,6 +23,12 @@ This website was built and refactored using HTML and CSS.
 Visual Studio Code was helpful for refactoring the two files mentioned. Developers can download Visual Studio Code <a href="https://code.visualstudio.com/" target="_blank">Here</a>. 
 
 Users do not need setup.
+
+## Mockup
+
+The following image shows one user-facing improvement although the majority of the adjustments enhance accessibility, SEO, and developers' ease of use. 
+
+ <img src="./assets/images/horiseonScreenshot.jpeg"/>
 
 ## Notable-updates
 
