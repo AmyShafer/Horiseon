@@ -84,12 +84,8 @@ Numerous updates were made to the given index.html file and the style.css file. 
 
 ## Resources-used
 
-* <a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank_">"HTML Semantic Elements" from W3 Schools</a> 
-
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML" target="_blank_">"HTML: A good basis for accessibility" from Mozilla</a> 
 
 * <a href="https://medium.com/design-code-repository/html-elements-section-vs-div-vs-article-a8c34e6548cf" target="_blank_">"HTML Elements section vs div vs article" from Medium</a> 
-
-* <a href="https://github.com/AmyShafer/landing-page" target="_blank_">"Activity #22" from GitHub</a> 
 
 * <a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project" target="_blank_">"How to write a good README for your GitHub project?" from Bull Dog Job</a> 
