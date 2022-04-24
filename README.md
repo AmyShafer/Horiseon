@@ -8,11 +8,11 @@ The website was refactored to improve web accessibility and long-term sustainabi
 ## Table of contents
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Mockup] (#mockup)
+* [Mockup](#mockup)
 * [Notable-updates](#notable-updates)
 * [HTML-updates](#html-updates)
-* [CSS-updates] (#css-updates)
-* [Resources-used] (#resources-used)
+* [CSS-updates](#css-updates)
+* [Resources-used](#resources-used)
 
 ## Technologies
 
@@ -28,7 +28,7 @@ Users do not need setup.
 
 The following image shows one user-facing improvement although the majority of the adjustments enhance accessibility, SEO, and developers' ease of use. 
 
- <img src="./assets/images/horiseonScreenshot.jpeg"/>
+ <img src="./assets/images/horiseonScreenshot.jpeg" alt="horiseon"/>
 
 ## Notable-updates
 
